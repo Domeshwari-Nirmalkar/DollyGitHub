@@ -4,4 +4,6 @@ echo "Welcome to git hub final code test";
 
 echo "Welcome to git hub for demo work again";
 
+echo "this is to check repository commit";
+
 ?>
